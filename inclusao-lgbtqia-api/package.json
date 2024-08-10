@@ -1,0 +1,20 @@
+{
+  "name": "inclusao-lgbtqia-api",
+  "version": "1.0.0",
+  "description": "API para promover a inclusão e diversidade no mercado de trabalho LGBTQIA+.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": ["inclusao", "LGBTQIA+", "API", "emprego", "direitos", "mentoria"],
+  "author": "Ana Caroline Rodrigues Neves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
